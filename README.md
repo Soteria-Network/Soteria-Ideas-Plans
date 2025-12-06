@@ -1,13 +1,15 @@
 # Soteria-Ideas-Plans
 Ideas &amp; Plans
 
-##### Gamified meme phase 25-30% 
+##### Gamified meme phase 25-30% using Z4RS-GPU, Z4S-ASICS, whitelisted testing phase.
 
 ##### Transferable, swappable, convertible, giftable, and sharable points that are non‑tradable (cannot be sold directly but can be exchanged for other assets, utilities, Soter tokens, & Soter coins).
 
-##### Free meme to test but yet need to decide for ASICs or GPU.
+##### Free meme to test but yet need to decide for ASICs or GPU, using Z10-12RS, whitelisted testing phase.
 
-##### Testnet meme using whitelisted addresses
+##### Start to offer IT products and blockchain services
+
+
 
 
 
