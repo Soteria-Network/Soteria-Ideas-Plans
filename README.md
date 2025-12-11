@@ -9,6 +9,8 @@ Ideas &amp; Plans
 
 ##### Start to offer IT products and blockchain services
 
+##### Add POS consensus activation timestamp at 2028, halve mining reward each 4mo until POS activation
+
 
 
 
